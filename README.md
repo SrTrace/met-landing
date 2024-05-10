@@ -1,4 +1,4 @@
-# [The MET Landing Page](https://srtrace.github.io/layout_landing-page/)
+# [The MET Landing Page](https://srtrace.github.io/met-landing/)
 
 ## Overview
 
@@ -21,4 +21,4 @@ This project is a responsive landing page "The MET", offering a seamless experie
 ## Links
 
 - [link to code](https://github.com/SrTrace/met-landing)
-- [link webpage](https://srtrace.github.io/layout_landing-page/)
+- [link webpage](https://srtrace.github.io/met-landing/)
