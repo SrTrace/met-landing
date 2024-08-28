@@ -32,7 +32,7 @@
   }
 }
 
-// .icon--phone:hover + .phone {
-//   opacity: 1;
-//   transform: translateY(55%);
-// }
+.icon--phone:hover + .phone {
+  opacity: 1;
+  transform: translateY(55%);
+}

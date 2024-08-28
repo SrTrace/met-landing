@@ -36,9 +36,11 @@
   }
 
   &__phone {
-    &:target {
-      opacity: 1;
-      transform: translateY(55%);
-    }
+    // &:target {
+    //   opacity: 1;
+    //   transform: translateY(55%);
+    // }
+    opacity: 0;
+    transform: translateY(55%);
   }
 }
